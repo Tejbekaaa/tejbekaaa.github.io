@@ -1,0 +1,74 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size:14px;
+  line-height:1.5;
+  font-weight:400;
+  color: white;
+  
+}
+
+.logo {
+  text-align: center;
+  font-size: 30px;
+}
+
+.wrapper {
+  font-style: normal;
+  text-align: left;
+}
+
+.footer {
+  padding:15px 0 15px 30px;
+  background: black;
+  text-align: center;
+  font-size: 20px;
+}
+
+@media (min-width: 1100px) {
+  .footer {
+    padding: 10px auto;
+  }
+}
+
+@media (max-width: 1100px) and (min-width: 1000px) {
+  #a {
+    font-size: large;
+  }
+  .footer {
+    padding: 10px auto;
+    font-size: 15px;
+  }
+  .logo {
+    font-size: 30px;
+    }
+}
+  
+@media (max-width: 1000px) and (min-width: 800px) {
+  .footer {
+    padding: 10px auto;
+    font-size: 15px;
+  }
+  .logo {
+    font-size: 30px;
+    }
+}
+  
+@media (max-width: 800px) and (min-width: 500px) {
+  .footer {
+    font-size: 15px;
+    padding: 10px auto;
+  }
+  .logo {
+    font-size: 30px;
+    }
+}
+  
+  @media (max-width: 500px) {
+    .footer {
+      font-size: 15px;
+      padding: 10px auto;
+    }
+    .logo {
+      font-size: 30px;
+      }
+}
