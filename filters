@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <title>Tejbekaaa filters!</title>
+    <meta name="color-scheme" content="light dark">
+    <meta name="theme-color" content="#fff">
+    <link href="style.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  </head>
+
+  <body>
+
+    <div class="logo">
+     
+        My filters on snapchat!
+    
+    </div>
+
+    <div class="wrapper">
+      Small head! -
+      <p><h2><a href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=ebfe37a8c3b4478c901ae978d9e8da43&metadata=01" title="Small head">Click to get it!</a></h2></p>
+      Baby face! - 
+      <p><h2><a href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=41e01284365e42e0992b902a434bebc6&metadata=01" title="Baby Face">Click to get it!</a></h2></p>
+      Fake blue eyes (lol my first filter) -
+      <p><h2><a href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=af8299c5dfeb4a56854ef9c86063bc08&metadata=01" title="Fake eyes (blue)">Click to get it!</a></h2></p>
+      Big brain - 
+      <p><h2><a href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=109fdeac26714c769329a62b03feedff&metadata=01 title="Big BrAin!">Click to get it!</a></h2></p>
+      
+    </div>
+
+    <div class="footer">
+      <footer>Hello! Contact (discord): Tejbekaaa#0740 (Add me to friends)</footer>
+    </div>
+
+  </body>
+
+</html>
