@@ -7,6 +7,11 @@ body {
   background-color: #1c1c1c;
 }
 
+A:link {
+color: #6f00ff;
+text-decoration: none;
+}
+
 .logo {
   text-align: center;
   font-size: 30px;
