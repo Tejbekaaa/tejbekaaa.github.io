@@ -1,9 +1,2 @@
-#l
-#o
-#l
-#o
-#l
-#o
-#l
-#o
-#l
+#Website
+This website is for people who are looking for help!
