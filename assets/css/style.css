@@ -1,0 +1,52 @@
+html {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #2d2d30;
+    color: white;
+}
+
+.logo {
+    padding:40px 0 40px 30px;
+    background: black;
+    text-align: center;
+    font-size: 35px;
+    cursor: no-drop;
+  }
+
+
+a {
+    text-decoration: none;
+    color: white;
+    transition: all 0.1s ease 0s;
+}
+.apps {
+    text-align: center;
+    font-size: 32px;
+}
+.gapps {
+    text-align: left;
+    font-size: 16px;
+}
+.changecolor2 {
+    color: green;
+}
+.changecolor3 {
+    color: blue;
+}
+.warning {
+    padding:30px 0 30px 30px;
+    background: black;
+    text-align: center;
+    font-size: 25px;
+    color: red;
+}
+.info {
+    margin: auto;
+    padding: auto;
+    font-size: x-large;
+}
