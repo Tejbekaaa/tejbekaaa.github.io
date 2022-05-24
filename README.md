@@ -1,2 +1,2 @@
 # tejbekaaa.github.io!
-Strona będzie po polsku.
+Tutaj znajdziesz aplikacje/pliki które są $!#@$! !
