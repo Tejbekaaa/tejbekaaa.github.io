@@ -158,10 +158,10 @@ function updateDiscord(data) {
   // }
   const statusBar = document.getElementById('status-bar');
   const statuses = {
-    online: "jestem online",
-    idle: "z/w",
-    dnd: "nie przeszkadac",
-    offline: "jestem offline",
+    online: "Online",
+    idle: "Z/w",
+    dnd: "Nie przeszkadać",
+    offline: "Offline",
   };
   statusBar.innerHTML = statuses[status];
   const statusDot = document.getElementById('status');
