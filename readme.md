@@ -4,7 +4,7 @@
 Strona Tejbeki!
 
 ## Wersja strony
-1.1 BETA
+1.2 BETA
 
 ## Co nowe?
 
