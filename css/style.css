@@ -3,6 +3,7 @@
 }
 body {
     font-family: 'Montserrat', sans-serif;
+    color: #D1D1D1;
 }
 
 .logo {
@@ -21,6 +22,7 @@ body {
 }
 
 .footer {
+    text-align: center;
     color: white;
     position: absolute;
     bottom: 0px;
@@ -39,31 +41,11 @@ body {
     align-items: center;
 }
 
-.bar-item {
-    display: flex;
-    height: 100%;
-    align-items: center;
-    justify-content: center;
-    padding-left: 1rem;
-    padding-right: 1rem;
+a:link {
+    color: rgb(133, 133, 133);
+    text-decoration: none;
 }
-  
-#spotify-bar-link {
-    margin-left: 0.5rem;
-    overflow: hidden;
-    white-space: nowrap;
-}
-  
-#spotify-bar {
-    text-overflow: ellipsis;
-  }
-  
-.spotify-icon {
-    font-size: 20px;
-}
-  
-.bar-link {
-    margin-left: 0.2rem;
-    margin-right: 0.2rem;
-    font-size: 20px;
+
+a:visited {
+    color: rgb(245, 245, 245);
 }
