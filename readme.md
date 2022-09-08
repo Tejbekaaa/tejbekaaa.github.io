@@ -4,7 +4,7 @@
 Strona Tejbeki!
 
 ## Wersja strony
-1.0 BETA
+1.1 BETA
 
 ## Co nowe?
 
@@ -13,3 +13,6 @@ Strona Tejbeki!
 - Autorki kod strony (więc pisz na discord jak chcesz cos skopiować xD)
 - Czcionka
 
+1.1
+
+- Całkowite usunięcie JS z strony.
