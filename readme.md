@@ -6,7 +6,7 @@ Strona Tejbeki!
 ## Wersja strony
 1.0 BETA
 
-### Co nowe?
+## Co nowe?
 
 1.0
 - Wygląd strony
