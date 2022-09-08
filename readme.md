@@ -16,3 +16,7 @@ Strona Tejbeki!
 1.1
 
 - Całkowite usunięcie JS z strony.
+
+1.2
+
+- Edycja tekstu + drobne poprawki css
