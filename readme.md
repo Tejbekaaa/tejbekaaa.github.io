@@ -20,3 +20,8 @@ Strona Tejbeki!
 1.2
 
 - Edycja tekstu + drobne poprawki css
+
+## TODO
+
+- wygląd
+- strona 404
