@@ -1,27 +1,5 @@
 
 # tejbekaaa.github.io
 
-Strona Tejbeki!
+Taa probuje sie nauczyc pisac strony www wiec kiedys tutaj bedzie strona. :D milego dnia
 
-## Wersja strony
-1.2 BETA
-
-## Co nowe?
-
-1.0
-- Wygląd strony
-- Autorki kod strony (więc pisz na discord jak chcesz cos skopiować xD)
-- Czcionka
-
-1.1
-
-- Całkowite usunięcie JS z strony.
-
-1.2
-
-- Edycja tekstu + drobne poprawki css
-
-## TODO
-
-- wygląd
-- strona 404
