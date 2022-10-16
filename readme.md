@@ -1,5 +1,8 @@
 
 # tejbekaaa.github.io
 
-Taa probuje sie nauczyc pisac strony www wiec kiedys tutaj bedzie strona. :D milego dnia
+Strona Tejbeki wreszcie wróciła! 
 
+## Wersje
+
+Wersja 1.0 (v1.0) - Sama strona i lekkie poprawki kodu 
