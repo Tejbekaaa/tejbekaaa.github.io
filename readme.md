@@ -12,4 +12,7 @@ Wersja 1.0 (v1.0) - Sama strona i lekkie poprawki kodu
 
 ### ToDo 
 
-Edycja świąteczna strony www
+- Favicon
+- Embed
+- JS
+- Edycja świąteczna strony www
