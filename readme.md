@@ -6,3 +6,10 @@ Strona Tejbeki wreszcie wróciła!
 ## Wersje
 
 Wersja 1.0 (v1.0) - Sama strona i lekkie poprawki kodu 
+
+
+
+
+### ToDo 
+
+Edycja świąteczna strony www
