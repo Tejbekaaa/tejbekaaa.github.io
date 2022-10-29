@@ -16,3 +16,4 @@ Wersja 1.0 (v1.0) - Sama strona i lekkie poprawki kodu
 - Embed ✅
 - JS
 - Edycja świąteczna strony www
+- Background
