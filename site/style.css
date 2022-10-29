@@ -1,5 +1,5 @@
 html {
-    background-color: gray;
+    background-color: #212121;
 }
 
 body {
@@ -14,8 +14,8 @@ body {
 	font-weight: bold;
 	font-size: 50px;
 	text-shadow: black 1px 1px 1px;
-    text-align: center;
-    text-decoration: underline;
+   	text-align: center;
+ 	text-decoration: underline;
 }
 .rainbow-text .block-line > span {
 	display: inline-block;
