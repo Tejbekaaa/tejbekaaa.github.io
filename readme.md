@@ -15,5 +15,7 @@ Wersja 1.0 (v1.0) - Sama strona i lekkie poprawki kodu
 - Favicon ✅
 - Embed ✅
 - Naprawa koloru czcionki ✅
+- Sekcja o mnie ✅
+- Background ✅
 - JS
-- Background
+
