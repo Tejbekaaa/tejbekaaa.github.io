@@ -10,6 +10,9 @@ body {
     color: #ffffff;
 }
 
+
+/*Tekst na srodku*/
+
 .rainbow-text {
 	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
@@ -18,9 +21,12 @@ body {
    	text-align: center;
  	text-decoration: underline;
 }
+
 .rainbow-text .block-line > span {
 	display: inline-block;
 }
+ 
+/*NavBar*/
 
 .nav {
     text-align: center;
@@ -30,11 +36,46 @@ body {
     font-size: 20px;
 }
 
-a.link
-{
-   text-decoration: none;
-   color: white;
+
+
+/*Linki*/
+
+a.ciekawostki {
+    text-decoration: none;
+    color: rgb(228, 119, 18);
 }
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a.color0 {
+   text-decoration: none;
+   color: rgb(255, 133, 133);
+}
+
+a.color1 {
+   text-decoration: none;
+   color: rgb(253, 255, 143);
+}
+
+a.color2 {
+   text-decoration: none;
+   color: rgb(155, 250, 136);
+}
+
+a.color3 {
+   text-decoration: none;
+   color: rgb(130, 128, 255);
+}
+
+a.color4 {
+   text-decoration: none;
+   color: rgb(255, 138, 245);
+}
+
+/*Footer*/
 
 .footer {
     text-align: center;
