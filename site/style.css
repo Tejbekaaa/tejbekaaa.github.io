@@ -3,11 +3,16 @@ html {
 }
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: DejaVuSansMono-Bold, Helvetica, sans-serif;
     max-width:50rem;
     margin:auto;
     line-height:1.3;
     color: #ffffff;
+}
+
+@font-face {
+    font-family: DejaVuSansMono-Bold;
+    src: url(DejaVuSansMono-Bold.ttf);
 }
 
 
